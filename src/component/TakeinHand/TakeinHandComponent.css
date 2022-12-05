@@ -1,0 +1,14 @@
+.TakeinHand__cards {
+  position: relative;
+  z-index: 5;
+}
+
+.card {
+  width: 120px;
+  height: 155px;
+  background-color: antiquewhite;
+  display: inline-block;
+  border-radius: 10%;
+  border: 1px solid black;
+  margin-right: -68px;
+}
